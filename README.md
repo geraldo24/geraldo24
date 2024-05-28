@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<!--
+## Geraldo Mariano 
+💚 Aluno do ensino medio cursando alura 
 **geraldo24/geraldo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
